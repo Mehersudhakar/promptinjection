@@ -46,7 +46,7 @@ python main.py
 
 ---
 
-## Example Attack (Single-Turn Injection)
+## Example Attack
 
 ### Step 1 – Inject malicious instruction
 
