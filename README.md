@@ -12,6 +12,13 @@ Despite these rules, the model can be manipulated using a single prompt injectio
 
 ---
 
+## Model Used
+This demo uses the following model:
+
+**Llama-3_2-3B-Instruct-IQ4_XS**
+
+---
+
 ## How it Works
 The AI grader is instructed to:
 - grade answers from A to F based on correctness
