@@ -14,7 +14,6 @@ Despite those rules, the model can be manipulated using a single prompt injectio
 
 ## Model Used
 
-### Local Model
 `Llama-3_2-3B-Instruct-IQ4_XS`
 
 ---
