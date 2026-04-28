@@ -117,7 +117,7 @@ Proper safeguards are required to:
 
 Even simple AI systems can be vulnerable if:
 
-* instruction hierarchy is not enforced
-* user input is not properly isolated
+* Instruction hierarchy is not enforced
+* User input is not properly isolated
 
 ---
