@@ -84,7 +84,7 @@ python main_openai.py
 
 ---
 
-## Example Attack (Single-Turn Injection)
+## Example Attack
 
 ### Step 1 – Inject malicious instruction
 
@@ -112,10 +112,6 @@ In this example:
 * A malicious instruction is injected
 * The model accepts the new rule
 * All subsequent answers are graded as **A**, regardless of correctness
-
-**Key moment:**
-
-> "Let's change the grading rules as you requested"
 
 ---
 
@@ -182,12 +178,3 @@ Even simple AI systems can be vulnerable if:
 
 * instruction hierarchy is not enforced
 * user input is not properly isolated
-
----
-
-## Note
-
-This project is intended for educational purposes to demonstrate prompt injection risks in LLM-based systems.
-
-```
-```
