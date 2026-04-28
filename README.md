@@ -65,7 +65,7 @@ answer: USA
 
 Below is an example of the prompt injection in action:
 
-![Prompt Injection Demo](assets/demo.png)
+![Prompt Injection Demo](demo.png)
 
 In this example:
 - The model initially grades correctly
