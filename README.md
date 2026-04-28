@@ -42,7 +42,7 @@ pip install openai
 3. Run the demo:
 
 ```bash
-python local_LLM/promptinjection.py
+python promptinjection.py
 ```
 
 ---
