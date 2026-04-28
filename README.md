@@ -1,4 +1,3 @@
-````markdown
 # Prompt Injection Demo – AI Grader
 
 ## Overview
@@ -115,10 +114,3 @@ Even simple AI systems can be vulnerable if:
 * user input is not properly isolated
 
 ---
-
-## Note
-
-This project is intended for educational purposes to demonstrate prompt injection risks in LLM-based systems.
-
-```
-```
